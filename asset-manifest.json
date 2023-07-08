@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lucky-numbers/static/css/main.d438c191.css",
+    "main.js": "/lucky-numbers/static/js/main.e1dae998.js",
+    "index.html": "/lucky-numbers/index.html",
+    "main.d438c191.css.map": "/lucky-numbers/static/css/main.d438c191.css.map",
+    "main.e1dae998.js.map": "/lucky-numbers/static/js/main.e1dae998.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d438c191.css",
+    "static/js/main.e1dae998.js"
+  ]
+}
